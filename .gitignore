@@ -1,0 +1,42 @@
+# Archivos de entorno de Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+*.ipynb_checkpoints
+
+# Archivos de dependencias de Python
+*.egg
+*.egg-info/
+*.dist-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Modelos guardados
+*.h5
+*.pkl
+*.pklz
+
+# Archivos de logs
+*.log
+
+# Directorios de datos
+data/
+
+# Archivos de entornos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de bases de datos temporales
+*.sqlite
+*.db
+
+# Archivos de entorno
+.env
+
+# Archivos generados por tests
+test_output/
